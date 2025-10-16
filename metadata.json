@@ -1,0 +1,7 @@
+{
+  "name": "ChatAi",
+  "description": "A smart Q&A assistant app that combines the strengths of multiple AI models for factual, creative, and reasoning-based answers. Features voice and text I/O with a futuristic UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
