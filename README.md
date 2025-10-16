@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/services/ChatGPT Image Oct 16, 2025, 10_41_39 AM.png" alt="SizeOne Logo" width="200"/>
+  <img src="/services/ChatGPT Image Oct 16, 2025, 10_41_39 AM.png" alt="SizeOne Logo" width="500" height="500"/>
 </p>
 
 # Run and deploy your AI Studio app
